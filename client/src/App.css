@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  margin-top: 80px;
+  background-color: white;
+  width: 1024px;
+  margin: 80px auto 0;
+  padding: 0;
+  min-height: 500px;
+}
+
+body {
+  background-color: royalblue
+}
+
+.title{
+  background-color: lightblue;
+  padding: 20px 40px;
+}
+
